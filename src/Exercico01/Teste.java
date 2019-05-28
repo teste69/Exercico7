@@ -11,8 +11,8 @@ package Exercico01;
  */
 public class Teste {
      public static void main(String[]args){
-        Pessoa p1=new Pessoa("Toninho","Rua: manicomio X numero:171","(66)9666-6999");
-        Fornecedor f1=new Fornecedor("Inri Cristo","Núcleo Rural Casa Grande - Rua 8MA","(61) 3404-0134",1.87,1.71);
+        Pessoa p1=new Pessoa("Rodrigo","Rua: treze X numero:266","(66)9666-6999");
+        Fornecedor f1=new Fornecedor("Enzo","Dona Clara - Rua 8","(61) 3404-0014",1.87,1.71);
         Empregado e1=new Empregado("O proximo numero","É uma frase >.<","01110110 01100101 01101001 01101111 00100000 01100011 01101111 01101110 01100110 01100101 01110010 01101001 01110010 00100000 01101111 01110001 00100000 01100101 01110010 01100001 00111111 ",8888,9999,5);
         
         
